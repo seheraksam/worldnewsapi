@@ -1,0 +1,178 @@
+{
+  "Agenda": {
+    "General": [
+      "https://www.sozcu.com.tr/feeds-rss-category-gunun-icinden",
+      "https://tr.euronews.com/rss?format=mrss&level=theme&name=news",
+      "https://feeds.bbci.co.uk/turkce/rss.xml",
+      "https://www.ahaber.com.tr/rss/gundem.xml",
+      "https://acikgazete.com/feed/",
+      "https://www.aksam.com.tr/rss/rss.asp",
+      "https://www.aa.com.tr/tr/rss/default?cat=guncel",
+      "https://artigercek.com/export/rss",
+      "https://www.birgazete.com/feed/",
+      "https://www.birgun.net/rss/home",
+      "https://www.sozcu.com.tr/feeds-rss-category-sozcu",
+      "https://www.cnnturk.com/feed/rss/all/news",
+      "https://www.demokrathaber.org/rss",
+      "https://www.diken.com.tr/feed/",
+      "https://www.dirilispostasi.com/rss",
+      "https://www.diyanethaber.com.tr/rss",
+      "https://dogruhaber.com.tr/rss",
+      "https://www.dokuz8haber.net/rss",
+      "https://www.dunya.com/rss?dunya",
+      "https://www.ensonhaber.com/rss/ensonhaber.xml",
+      "https://www.enpolitik.com/rss.xml",
+      "https://www.evrensel.net/rss/haber.xml",
+      "https://www.f5haber.com/export/rss",
+      "https://www.gazeteduvar.com.tr/export/rss",
+      "https://www.gercekgundem.com/rss",
+      "https://www.haber3.com/rss",
+      "https://haberglobal.com.tr/rss",
+      "https://www.haberturk.com/rss",
+      "https://halktv.com.tr/service/rss.php",
+      "https://www.hurriyet.com.tr/rss/anasayfa",
+      "https://www.iklimhaber.org/feed/",
+      "https://www.mynet.com/haber/rss/sondakika",
+      "https://www.ntv.com.tr/gundem.rss",
+      "https://www.sozcu.com.tr/feeds-rss-category-gundem",
+      "https://www.sozcu.com.tr/feeds-son-dakika",
+      "https://www.sozcu.com.tr/feeds-haberler",
+      "https://www.sozcu.com.tr/feeds-rss-category-gunun-icinden"
+    ]
+  },
+  "Science": {
+    "General": [
+      "https://arkeofili.com/feed/",
+      "https://beyinsizler.net/feed/",
+      "https://www.bilimgunlugu.com/feed/",
+      "https://bilimvegelecek.com.tr/index.php/feed/",
+      "https://www.bilimoloji.com/feed/",
+      "https://www.bilimup.com/rss.xml",
+      "https://cilginfizikcilervbi.com/feed/",
+      "https://www.dijitalx.com/feed/",
+      "https://evrimagaci.org/rss.xml"
+    ]
+  },
+  "Health": {
+    "General": [
+      "https://www.sozcu.com.tr/feeds-rss-category-saglik",
+      "https://sinirbilim.org/feed/",
+      "https://www.ntv.com.tr/saglik.rss"
+    ],
+    "Life": [
+      "https://www.sozcu.com.tr/feeds-rss-category-hayat",
+      "https://www.ntv.com.tr/yasam.rss",
+      "https://www.sozcu.com.tr/feeds-rss-category-yasam"
+    ]
+  },
+  "Technology": {
+    "General": [
+      "https://www.sozcu.com.tr/feeds-rss-category-bilim-teknoloji",
+      "https://www.sozcu.com.tr/feeds-rss-category-otomotiv",
+      "https://www.webtekno.com/rss.xml",
+      "https://www.donanimhaber.com/rss/tum/",
+      "https://www.chip.com.tr/rss",
+      "https://www.indir.com/haber/feed/",
+      "https://www.log.com.tr/feed/",
+      "https://shiftdelete.net/feed",
+      "http://www.teknoblog.com/feed/",
+      "https://www.teknoburada.net/feed/",
+      "https://webrazzi.com/feed"
+    ]
+  },
+  "Entertainment": {
+    "General": [
+      "https://www.sozcu.com.tr/feeds-rss-category-magazin",
+      "https://www.atarita.com/feed/",
+      "https://bigumigu.com/feed/",
+      "https://www.bilimkurgukulubu.com/feed/",
+      "https://onedio.com/Publisher/publisher-daily.rss",
+      "https://thegeyik.com/feed/",
+      "https://www.sozcu.com.tr/feeds-rss-category-yazar",
+      "https://www.sozcu.com.tr/feeds-rss-category-astroloji"
+    ],
+    "Cinema": [
+      "https://frpnet.net/feed",
+      "https://geekyapar.com/feed/",
+      "https://kayiprihtim.com/feed/"
+    ],
+    "Gaming": [
+      "https://www.turkmmo.com/feed",
+      "https://www.turunculevye.com/feed/"
+    ],
+    "PC": [
+      "https://leadergamer.com.tr/feed",
+      "https://www.turunculevye.com/feed/"
+    ]
+  },
+  "Philosophy": {
+    "General": [
+      "https://www.cafrande.org/feed/",
+      "https://cekiclefelsefe.com/feed/",
+      "https://kualiafelsefedergisi.com/feed/",
+      "https://manifold.press/rss",
+      "https://onculanalitikfelsefe.com/feed/",
+      "https://www.sosyalbilimler.org/feed/",
+      "https://terrabayt.com/feed/",
+      "https://vesaire.org/feed/",
+      "https://10layn.com/feed/"
+    ]
+  },
+  "History": {
+    "General": [
+      "https://dergipark.org.tr/tr/pub/tariharastirmalari/rss/lastissue/tr",
+      "https://www.tarihistan.org/rss.xml"
+    ]
+  },
+  "Finance": {
+    "General": [
+      "https://www.sozcu.com.tr/feeds-rss-category-finans",
+      "https://www.sozcu.com.tr/feeds-rss-category-kripto",
+      "https://www.sozcu.com.tr/feeds-rss-category-borsa",
+      "https://bigpara.hurriyet.com.tr/rss/",
+      "https://www.ntv.com.tr/ekonomi.rss",
+      "https://www.bbc.com/turkce/ekonomi/index.xml",
+      "https://www.ekonomidunya.com/rss.xml"
+    ],
+    "Energy": [
+      "https://www.ekonomidunya.com/rss_enerji_208.xml"
+    ]
+  },
+  "Sport": {
+    "General": [
+      "https://www.sozcu.com.tr/feeds-rss-category-spor",
+      "https://www.sozcu.com.tr/feeds-rss-category-diger-sporlar",
+      "https://www.sozcu.com.tr/feeds-rss-category-futbol",
+      "https://tr.euronews.com/rss?format=mrss&level=theme&name=sport",
+      "https://www.ntv.com.tr/spor.rss",
+      "https://www.ahaber.com.tr/rss/galeri/spor.xml",
+      "https://www.sozcu.com.tr/feeds-rss-category-dunyadan-spor",
+      "https://www.sozcu.com.tr/feeds-rss-category-voleybol",
+      "https://www.sozcu.com.tr/feeds-rss-category-euro-2024"
+    ]
+  },
+  "Travel": {
+    "General": [
+      "https://tr.euronews.com/rss?format=mrss&level=vertical&name=travel",
+      "https://www.ntv.com.tr/seyahat.rss",
+      "https://www.turizmekonomi.com/rss"
+    ]
+  },
+  "Art": {
+    "General": [
+        "https://www.sozcu.com.tr/feeds-rss-category-kultur-sanat",
+      "https://tr.euronews.com/rss?format=mrss&level=vertical&name=culture",
+      "https://www.sanattanyansimalar.com/rss.xml",
+      "https://www.ntv.com.tr/sanat.rss"
+    ]
+  },
+  "Global": {
+    "General": [
+      "https://www.sozcu.com.tr/feeds-rss-category-dunya",
+      "https://tr.euronews.com/rss?format=mrss&level=vertical&name=next",
+      "https://tr.euronews.com/rss?format=mrss&level=vertical&name=green",
+      "https://tr.euronews.com/rss?format=mrss&level=program&name=nocomment",
+      "https://tr.euronews.com/rss?format=mrss&level=vertical&name=my-europe"
+    ]
+  }
+}
