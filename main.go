@@ -117,26 +117,36 @@ type News struct {
 	Hash          string    `bson:"generatedHash"`
 }
 
+var client *mongo.Client
+
 type RSSFeeds map[string]map[string][]string
 
-func main() {
-
+func initialize() {
 	clientOptions := options.Client().ApplyURI(mongoURI)
-	client, err := mongo.Connect(context.TODO(), clientOptions)
+	var err error
+	client, err = mongo.Connect(context.TODO(), clientOptions) // Global client değişkenini ayarla
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer client.Disconnect(context.TODO())
-	/*router := gin.Default()
+}
+func main() {
+	initialize() // MongoDB bağlantısını başlat
 
-	// RSS Feed'leri MongoDB'ye kaydeden endpoint
+	router := gin.Default()
+
 	router.POST("/import-feeds", func(c *gin.Context) {
 		importFeedsHandler(c, client)
 	})
 
-	// Server'ı başlat
+	router.GET("/rssfetch", func(c *gin.Context) {
+		handlerfetchrss()
+	})
+
 	fmt.Println("Server çalışıyor: http://localhost:8080")
-	router.Run(":8080")*/
+	router.Run(":8080")
+}
+
+func handlerfetchrss() {
 
 	feedCollection := client.Database(dbName).Collection(collectionFeeds)
 	newsCollection := client.Database(dbName).Collection(collectionNews)
